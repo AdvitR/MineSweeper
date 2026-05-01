@@ -1,0 +1,12 @@
+target/
+*.class
+
+.idea/
+.run/
+*.iml
+
+minesweeper_save.txt
+*.zip
+
+.DS_Store
+Thumbs.db
